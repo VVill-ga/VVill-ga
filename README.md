@@ -3,3 +3,7 @@
   <a href="#"><img alt="My School" src="https://img.shields.io/badge/GO-BEAVS-orange?style=for-the-badge"></a>
   <a href="#"><img alt="How Many Times You've Been Here" src="https://komarev.com/ghpvc/?username=VVill-ga&style=for-the-badge&color=008800&label=VIEWS"></a>
 </p>
+<p align="center">:wave: I am currently looking for a summer internship!</p>
+<table align="center"><tbody><td align="center">
+<p align="center">Download My</p> <a href="https://github.com/VVill-ga/VVill-ga/blob/main/resume.pdf"><img alt="Download My Resume" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readme&logoColor=white"></a>
+</td></tbody></table>
