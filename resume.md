@@ -25,7 +25,7 @@ header-includes:
 \hrule
 
 -   **BS, Computer Science**; Oregon State University (Corvallis, OR) *\hfill (expected)* **2025**
-    -   Focus on *Simulations & Game Design*
+    -   Focus on *Simulations & Game Programming*
 -   **Relevant Courses:**
     -   Data Structures, Algorithms, Parallel Programming, Software
         Engineering (1 & 2), Technical Writing, Operating Systems (1 &
@@ -84,32 +84,38 @@ header-includes:
     *[[Writeup]{.underline}](https://vvill.dev/projects/website)* |
     *[[Github]{.underline}](https://github.com/VVill-ga/vvill.dev)*
     -   Completely hand-written, unique HTML CSS and JS *\hfill 2023*
-    -   Static Site Generation with Hugo
+    -   Managed configuration of Hugo's static site generation with modular 
+        files for efficient DevOps
     -   Wrote in depth technical project analysis' and blog posts
 -   **3D Heightmap Mesh Editor** \simpleicon{cplusplus} \simpleicon{opengl}
     \hfill | *[[Writeup]{.underline}](https://vvill.dev/projects/topotoucher)* | 
     *[[Github]{.underline}](https://github.com/VVill-ga/topotoucher)*
-    -   Uh *\hfill 2023*
-    -   Not sure what to put yet
+    -   Dynamic heightmap mesh generation in C++ with OpenGL *\hfill 2023*
+    -   Wrote comprehensive project analysis with feature visualizations and 
+        concept research results
+    -   Overcame bugs in library code with quick problem solving skills
 -   **Real-time Online Party Game** \simpleicon{nodedotjs}
     \simpleicon{html5} \simpleicon{css3} \simpleicon{javascript}
     \hfill | *[[Newsie.VVill.dev]{.underline}](https://newsie.vvill.dev)*
     \| *[[Github]{.underline}](https://github.com/VVill-ga/newsie)*
-    -   Utilizes WebSockets for performant network transactions *\hfill 2022*
-    -   Follows the Saga software design pattern for simple game state
-        management
-    -   Manages several games
--   **Jewelery Store Website** \simpleicon{square} \simpleicon{python} \hfill | 
+    -   Utilizes WebSockets for performant and reliable network transactions 
+        *\hfill 2022*
+    -   Implemented user-friendly input validation that ties in with server-side
+        game state management
+    -   Worked in a team to combine strengths of front-end and back-end 
+        development
+-   **Jewelry Store Website** \simpleicon{square} \simpleicon{python} \hfill | 
     *[[BonitaRoseJewelry.com]{.underline}](https://bonitarosejewelry.com)*
-    -   Used python scripts to migrate product information and images
+    -   Wrote python scripts to migrate product information and images
         from Etsy *\hfill 2021*
-    -   Set up with Square Online CMS for user-friendly content updates
+    -   Set up store page with Square Online CMS for user-friendly content 
+        updates
 
 # Leadership
 
 \hrule
 
--   \setlength{\parskip}{3pt} **Leadership Liason for the Engineering Student 
+-   \setlength{\parskip}{3pt} **Leadership Liaison for the Engineering Student 
     Council** *\hfill 2023-Now*
     -   Provide resources and expertise to more than 50 engineering
         clubs
@@ -118,12 +124,12 @@ header-includes:
 -   **Administrative and Finance Officer of the Residence Hall
     Association** *\hfill 2022-Now*
     -   Manage \$100,000 budgets across 19 different spending accounts
-    -   Regularily meet with Housing and Dining administrators to
+    -   Regularly meet with Housing and Dining administrators to
         amplify residents voices
 -   **Officer of 4 Student Clubs** *\hfill 2022-Now*
     -   Founded the General Engineering Club to facilitate students'
-        multidiciplinary side-projects
-    -   Handle fundraising, event planning, and collaborations for all
-        clubs
-    -   Work with many students in teams to learn from eachother and
+        multidisciplinary side-projects
+    -   Helped officer teams with fundraising, event planning, and group 
+        collaborations for all clubs
+    -   Work with many students in teams to learn from each other and
         grow as leaders
