@@ -43,8 +43,8 @@ header-includes:
   \item \textbf{Web Development Skills}
     \begin{itemize}
       \item HTML, CSS, JS, React, Node, SQL, PHP
-      \item WebSocket, Express, Jest, Cypress
-      \item NginX, Caddy, Cloudflare
+      \item WebSocket, Express, Jest, Cypress, Hugo
+      \item NginX, Caddy, Cloudflare, Wireshark
     \end{itemize}
   \item \textbf{System Level Programming}
     \begin{itemize}
@@ -62,7 +62,7 @@ header-includes:
       \begin{itemize}
         \item TDD and CI/CD
         \item Version Control with Git and Github
-        \item Agile and Waterfall PM methodologies
+        \item Agile and Waterfall PM Methodologies
         \item Software Design Patterns and Flowcharts
       \end{itemize}
   \item \textbf{Soft Skills}
@@ -79,18 +79,20 @@ header-includes:
 \hrule
 
 -   \setlength{\parskip}{3pt} **Portfolio Site** 
-    \simpleicon{hugo} \simpleicon{html5} \simpleicon{css3} \simpleicon{javascript}
-    \simpleicon{markdown} \hfill | *[[VVill.dev]{.underline}](https://vvill.dev)* |
+    \simpleicon{hugo} \simpleicon{cloudflare} \simpleicon{html5} \simpleicon{css3} 
+    \simpleicon{javascript} \simpleicon{markdown} \simpleicon{caddy} \hfill | 
+    *[[VVill.dev]{.underline}](https://vvill.dev)* |
     *[[Writeup]{.underline}](https://vvill.dev/projects/website)* |
     *[[Github]{.underline}](https://github.com/VVill-ga/vvill.dev)*
-    -   Completely hand-written, unique HTML CSS and JS *\hfill 2023*
+    -   Responsive website hand-written with HTML CSS and JS *\hfill 2023*
     -   Managed configuration of Hugo's static site generation with modular 
         files for efficient DevOps
-    -   Wrote in depth technical project analysis' and blog posts
+    -   Configured DNS through Cloudflare and proxied traffic using Caddy
 -   **3D Heightmap Mesh Editor** \simpleicon{cplusplus} \simpleicon{opengl}
     \hfill | *[[Writeup]{.underline}](https://vvill.dev/projects/topotoucher)* | 
     *[[Github]{.underline}](https://github.com/VVill-ga/topotoucher)*
-    -   Dynamic heightmap mesh generation in C++ with OpenGL *\hfill 2023*
+    -   Dynamic heightmap mesh generation and editing in C++ with 
+        OpenGL *\hfill 2023*
     -   Wrote comprehensive project analysis with feature visualizations and 
         concept research results
     -   Overcame bugs in library code with quick problem solving skills
@@ -100,13 +102,13 @@ header-includes:
     \| *[[Github]{.underline}](https://github.com/VVill-ga/newsie)*
     -   Utilizes WebSockets for performant and reliable network transactions 
         *\hfill 2022*
-    -   Implemented user-friendly input validation that ties in with server-side
+    -   Implemented user-friendly input validation tied in with server-side 
         game state management
     -   Worked in a team to combine strengths of front-end and back-end 
         development
 -   **Jewelry Store Website** \simpleicon{square} \simpleicon{python} \hfill | 
     *[[BonitaRoseJewelry.com]{.underline}](https://bonitarosejewelry.com)*
-    -   Wrote python scripts to migrate product information and images
+    -   Wrote Python scripts to migrate product information and images
         from Etsy *\hfill 2021*
     -   Set up store page with Square Online CMS for user-friendly content 
         updates
@@ -117,19 +119,19 @@ header-includes:
 
 -   \setlength{\parskip}{3pt} **Leadership Liaison for the Engineering Student 
     Council** *\hfill 2023-Now*
-    -   Provide resources and expertise to more than 50 engineering
+    -   Give expertise and development opportunities to more than 50 engineering
         clubs
-    -   Work with the Leadership Academy to amplify academic
+    -   Collaborate with the Leadership Academy to amplify academic
         opportunities in the College of Engineering
 -   **Administrative and Finance Officer of the Residence Hall
     Association** *\hfill 2022-Now*
     -   Manage \$100,000 budgets across 19 different spending accounts
-    -   Regularly meet with Housing and Dining administrators to
-        amplify residents voices
+    -   Schedule regular meetings with Housing and Dining administrators to
+        amplify residents' voices
 -   **Officer of 4 Student Clubs** *\hfill 2022-Now*
     -   Founded the General Engineering Club to facilitate students'
         multidisciplinary side-projects
-    -   Helped officer teams with fundraising, event planning, and group 
+    -   Help officer teams with fundraising, event planning, and group 
         collaborations for all clubs
-    -   Work with many students in teams to learn from each other and
-        grow as leaders
+    -   Organize student teams to foster mutual learning and develop collective
+        leadership skills
