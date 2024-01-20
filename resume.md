@@ -1,5 +1,5 @@
 ---
-geometry: margin=0.75in
+geometry: "right=0.5in,left=0.5in,top=0.75in,bottom=0.75in"
 pdf-engine: lualatex
 header-includes:
   - \usepackage{setspace}
@@ -24,7 +24,8 @@ header-includes:
 
 \hrule
 
--   **BS, Computer Science**; Oregon State University (Corvallis, OR) *\hfill (expected)* **2025**
+-   **BS, Computer Science**; Oregon State University (Corvallis, OR) 
+    *\hfill June* **2025**
     -   Focus on *Simulations & Game Programming*
 -   **Relevant Courses:**
     -   Data Structures, Algorithms, Parallel Programming, Software
@@ -84,34 +85,37 @@ header-includes:
     *[[VVill.dev]{.underline}](https://vvill.dev)* |
     *[[Writeup]{.underline}](https://vvill.dev/projects/website)* |
     *[[Github]{.underline}](https://github.com/VVill-ga/vvill.dev)*
-    -   Responsive website hand-written with HTML CSS and JS *\hfill 2023*
+    -   Wrote a responsive website with HTML CSS and JS utilizing Media Queries 
+        and Flexbox *\hfill 2023*
     -   Managed configuration of Hugo's static site generation with modular 
         files for efficient DevOps
-    -   Configured DNS through Cloudflare and proxied traffic using Caddy
+    -   Configured DNS and Email Routing through Cloudflare and proxied traffic 
+        using Caddy
 -   **3D Heightmap Mesh Editor** \simpleicon{cplusplus} \simpleicon{opengl}
     \hfill | *[[Writeup]{.underline}](https://vvill.dev/projects/topotoucher)* | 
     *[[Github]{.underline}](https://github.com/VVill-ga/topotoucher)*
-    -   Dynamic heightmap mesh generation and editing in C++ with 
-        OpenGL *\hfill 2023*
-    -   Wrote comprehensive project analysis with feature visualizations and 
+    -   Created a dynamic heightmap mesh generation algorithm and editor in C++ 
+        with OpenGL *\hfill 2023*
+    -   Wrote a detailed project analysis with feature visualizations and 
         concept research results
-    -   Overcame bugs in library code with quick problem solving skills
--   **Real-time Online Party Game** \simpleicon{nodedotjs}
+    -   Overcame bugs in library code by implementing missing features and
+        developing workarounds
+-   **Real-time Online Party Game** \simpleicon{nodedotjs} \simpleicon{caddy}
     \simpleicon{html5} \simpleicon{css3} \simpleicon{javascript}
     \hfill | *[[Newsie.VVill.dev]{.underline}](https://newsie.vvill.dev)*
     \| *[[Github]{.underline}](https://github.com/VVill-ga/newsie)*
-    -   Utilizes WebSockets for performant and reliable network transactions 
-        *\hfill 2022*
-    -   Implemented user-friendly input validation tied in with server-side 
-        game state management
-    -   Worked in a team to combine strengths of front-end and back-end 
-        development
+    -   Worked in a team to develop a full-stack synchronous party game using 
+        Github and OOP principles *\hfill 2022*
+    -   Coordinated HTTP requests with Express.js and utilized WebSockets for 
+        continuous network transactions
+    -   Implemented error handling and input validation with JavaScript to 
+        ensure server uptime and good UX
 -   **Jewelry Store Website** \simpleicon{square} \simpleicon{python} \hfill | 
     *[[BonitaRoseJewelry.com]{.underline}](https://bonitarosejewelry.com)*
-    -   Wrote Python scripts to migrate product information and images
-        from Etsy *\hfill 2021*
-    -   Set up store page with Square Online CMS for user-friendly content 
-        updates
+    -   Wrote Python scripts to migrate images and information on over 200
+        products from Etsy *\hfill 2021*
+    -   Built storefront with Square Online CMS increasing total profit margins 
+        by 6.5%
 
 # Leadership
 
