@@ -29,9 +29,9 @@ header-includes:
     -   Focus on *Simulations & Game Programming*
 -   **Relevant Courses:**
     -   Data Structures, Algorithms, Parallel Programming, Software
-        Engineering (1 & 2), Technical Writing, Operating Systems (1 &
-        2), Graphics, Shaders\*, (Adv.\*) Web Development, Databases,
-        Networks\*
+        Engineering (1 & 2), Technical Writing, Operating Systems (1 & 2), 
+        Assembly, Graphics, Shaders\*, Vector Calc, (Adv.\*) Web Development, 
+        Databases, Networks\*
 
         *\*in progress*
 
@@ -85,8 +85,8 @@ header-includes:
     *[[VVill.dev]{.underline}](https://vvill.dev)* |
     *[[Writeup]{.underline}](https://vvill.dev/projects/website)* |
     *[[Github]{.underline}](https://github.com/VVill-ga/vvill.dev)*
-    -   Wrote a responsive website with HTML CSS and JS utilizing Media Queries 
-        and Flexbox *\hfill 2023*
+    -   Wrote a responsive website with HTML, CSS, and JS utilizing Media 
+        Queries and Flexbox *\hfill 2023*
     -   Managed configuration of Hugo's static site generation with modular 
         files for efficient DevOps
     -   Configured DNS and Email Routing through Cloudflare and proxied traffic 
