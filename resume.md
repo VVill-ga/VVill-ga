@@ -1,5 +1,5 @@
 ---
-geometry: "right=0.5in,left=0.5in,top=0.75in,bottom=0.75in"
+geometry: "right=0.5in,left=0.5in,top=1in,bottom=0.75in"
 pdf-engine: lualatex
 header-includes:
   - \usepackage{setspace}
@@ -30,50 +30,9 @@ header-includes:
 -   **Relevant Courses:**
     -   Data Structures, Algorithms, Parallel Programming, Software
         Engineering (1 & 2), Technical Writing, Operating Systems (1 & 2), 
-        Assembly, Graphics, Shaders\*, Vector Calc, (Adv.\*) Web Development, 
-        Databases, Networks\*
+        Assembly, Graphics, Shaders, Vector Calc, (Adv.) Web Development, 
+        Databases, Networks
 
-        *\*in progress*
-
-# Skills
-
-\hrule
-
-\begin{minipage}{0.45\textwidth}
-  \begin{itemize}
-  \item \textbf{Web Development Skills}
-    \begin{itemize}
-      \item HTML, CSS, JS, React, Node, SQL, PHP
-      \item WebSocket, Express, Jest, Cypress, Hugo
-      \item NginX, Caddy, Cloudflare, Wireshark
-    \end{itemize}
-  \item \textbf{System Level Programming}
-    \begin{itemize}
-      \item C, C++, Rust, Go, Java, Python
-      \item Unix, Bash, Vim, Terminal Environment
-      \item OpenMP, OpenCL, CUDA, SIMD, MPI
-      \item OpenGL, GLSL, GLUT, GLM
-    \end{itemize}
-  \end{itemize}
-\end{minipage}
-\hspace{0.05\textwidth}
-\begin{minipage}{0.45\textwidth}
-  \begin{itemize}
-  \item \textbf{Project Management}
-      \begin{itemize}
-        \item TDD and CI/CD
-        \item Version Control with Git and Github
-        \item Agile and Waterfall PM Methodologies
-        \item Software Design Patterns and Flowcharts
-      \end{itemize}
-  \item \textbf{Soft Skills}
-      \begin{itemize}
-        \item Leadership and Team Management
-        \item Clear and Effective Communication
-        \item Self Motivated and Always Learning
-      \end{itemize}
-  \end{itemize}
-\end{minipage}
 
 # Projects
 
@@ -139,3 +98,43 @@ header-includes:
         collaborations for all clubs
     -   Organize student teams to foster mutual learning and develop collective
         leadership skills
+
+# Skills
+
+\hrule
+
+\begin{minipage}{0.45\textwidth}
+  \begin{itemize}
+  \item \textbf{Web Development Skills}
+    \begin{itemize}
+      \item HTML, CSS, JS, React, Node, SQL, PHP
+      \item WebSocket, Express, Jest, Cypress, Hugo
+      \item NginX, Caddy, Cloudflare, Wireshark
+    \end{itemize}
+  \item \textbf{System Level Programming}
+    \begin{itemize}
+      \item C, C++, Rust, Go, Java, Python
+      \item Unix, Bash, Vim, Terminal Environment
+      \item OpenMP, OpenCL, CUDA, SIMD, MPI
+      \item OpenGL, GLSL, GLUT, GLM
+    \end{itemize}
+  \end{itemize}
+\end{minipage}
+\hspace{0.05\textwidth}
+\begin{minipage}{0.45\textwidth}
+  \begin{itemize}
+  \item \textbf{Project Management}
+      \begin{itemize}
+        \item TDD and CI/CD
+        \item Version Control with Git and Github
+        \item Agile and Waterfall PM Methodologies
+        \item Software Design Patterns and Flowcharts
+      \end{itemize}
+  \item \textbf{Soft Skills}
+      \begin{itemize}
+        \item Leadership and Team Management
+        \item Clear and Effective Communication
+        \item Self Motivated and Always Learning
+      \end{itemize}
+  \end{itemize}
+\end{minipage}
