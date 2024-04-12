@@ -1,11 +1,10 @@
 ---
-geometry: "right=0.5in,left=0.5in,top=1in,bottom=0.75in"
+geometry: "right=0.5in,left=0.5in,top=0.75in,bottom=0.75in"
 pdf-engine: lualatex
 header-includes:
   - \usepackage{setspace}
   - \usepackage{parskip}
   - \usepackage{titlesec}
-  - \usepackage{simpleicons}
   - \titlespacing{\section}{0pt}{0.2\baselineskip}{0.3\baselineskip}
 ---
 
@@ -25,22 +24,35 @@ header-includes:
 \hrule
 
 -   **BS, Computer Science**; Oregon State University (Corvallis, OR) 
-    *\hfill June* **2025**
-    -   Focus on *Simulations & Game Programming*
--   **Relevant Courses:**
-    -   Data Structures, Algorithms, Parallel Programming, Software
-        Engineering (1 & 2), Technical Writing, Operating Systems (1 & 2), 
-        Assembly, Graphics, Shaders, Vector Calc, (Adv.) Web Development, 
-        Databases, Networks
+    *\hfill June 2025*
+    -   (Adv.) Web Development, Databases, Networks, Software Engineering
+        (1 & 2), Technical Writing, \
+        Data Structures, Algorithms, Operating
+        Systems (1 & 2), Parallel Programming, Assembly, Graphics, Shaders
 
 
 # Projects
 
 \hrule
 
--   \setlength{\parskip}{3pt} **Portfolio Site** 
-    \simpleicon{hugo} \simpleicon{cloudflare} \simpleicon{html5} \simpleicon{css3} 
-    \simpleicon{javascript} \simpleicon{markdown} \simpleicon{caddy} \hfill | 
+-   \setlength{\parskip}{3pt} **Croudsourced Resume Feedback Website** 
+    | *React, OAuth, SQL, REST API* \hfill | 
+    *[[Roast.VVill.dev]{.underline}](https://roast.vvill.dev)* |
+    *[[Github]{.underline}](https://github.com/VVill-ga/ResumeRoast)*
+    -   Lead a team in developing a React based full stack webapp with a REST 
+        API *\hfill 2024*
+    -   Integrated Disqus Community Management and interfaced with Dropbox
+        using OAuth2
+    -   Utilizied an SQLite database for efficient and persistant storage of
+        generated pdf links
+-   **Shortlinks (CLI)** | *Go, Bun, SQL, REST API* \hfill | 
+    *[[A.VVill.dev]{.underline}](https://a.vvill.dev)* | 
+    *[[Github]{.underline}](https://github.com/VVill-ga/shortlinks)*
+    -   Created a Bun webserver and API for redirecting URLs using an SQL
+        database and HTTP status codes *\hfill 2024*
+    -   Built a command line interface for link creation using Go, and a web 
+        front end styled with Pico.css
+-   **Portfolio Site** | *SSG, HTML, CSS, JS* \hfill | 
     *[[VVill.dev]{.underline}](https://vvill.dev)* |
     *[[Writeup]{.underline}](https://vvill.dev/projects/website)* |
     *[[Github]{.underline}](https://github.com/VVill-ga/vvill.dev)*
@@ -50,18 +62,8 @@ header-includes:
         files for efficient DevOps
     -   Configured DNS and Email Routing through Cloudflare and proxied traffic 
         using Caddy
--   **3D Heightmap Mesh Editor** \simpleicon{cplusplus} \simpleicon{opengl}
-    \hfill | *[[Writeup]{.underline}](https://vvill.dev/projects/topotoucher)* | 
-    *[[Github]{.underline}](https://github.com/VVill-ga/topotoucher)*
-    -   Created a dynamic heightmap mesh generation algorithm and editor in C++ 
-        with OpenGL *\hfill 2023*
-    -   Wrote a detailed project analysis with feature visualizations and 
-        concept research results
-    -   Overcame bugs in library code by implementing missing features and
-        developing workarounds
--   **Real-time Online Party Game** \simpleicon{nodedotjs} \simpleicon{caddy}
-    \simpleicon{html5} \simpleicon{css3} \simpleicon{javascript}
-    \hfill | *[[Newsie.VVill.dev]{.underline}](https://newsie.vvill.dev)*
+-   **Real-time Online Party Game** | *WebSockets, Express, NodeJS* \hfill | 
+    *[[Newsie.VVill.dev]{.underline}](https://newsie.vvill.dev)*
     \| *[[Github]{.underline}](https://github.com/VVill-ga/newsie)*
     -   Worked in a team to develop a full-stack synchronous party game using 
         Github and OOP principles *\hfill 2022*
@@ -69,7 +71,7 @@ header-includes:
         continuous network transactions
     -   Implemented error handling and input validation with JavaScript to 
         ensure server uptime and good UX
--   **Jewelry Store Website** \simpleicon{square} \simpleicon{python} \hfill | 
+-   **Jewelry Store Website** | *Python, CMS* \hfill | 
     *[[BonitaRoseJewelry.com]{.underline}](https://bonitarosejewelry.com)*
     -   Wrote Python scripts to migrate images and information on over 200
         products from Etsy *\hfill 2021*
@@ -82,8 +84,8 @@ header-includes:
 
 -   \setlength{\parskip}{3pt} **Leadership Liaison for the Engineering Student 
     Council** *\hfill 2023-Now*
-    -   Give expertise and development opportunities to more than 50 engineering
-        clubs
+    -   Instituted Office Hours to share expertise and development opportunities
+        between more than 50 engineering clubs
     -   Collaborate with the Leadership Academy to amplify academic
         opportunities in the College of Engineering
 -   **Administrative and Finance Officer of the Residence Hall
@@ -92,7 +94,7 @@ header-includes:
     -   Schedule regular meetings with Housing and Dining administrators to
         amplify residents' voices
 -   **Officer of 4 Student Clubs** *\hfill 2022-Now*
-    -   Founded the General Engineering Club to facilitate students'
+    -   Co-founded the General Engineering Club to facilitate students'
         multidisciplinary side-projects
     -   Help officer teams with fundraising, event planning, and group 
         collaborations for all clubs
@@ -113,8 +115,8 @@ header-includes:
     \end{itemize}
   \item \textbf{System Level Programming}
     \begin{itemize}
-      \item C, C++, Rust, Go, Java, Python
-      \item Unix, Bash, Vim, Terminal Environment
+      \item C, C++, Rust, Golang, Java, Python
+      \item Unix, Linux, CLI, Bash, Vim, Systemd
       \item OpenMP, OpenCL, CUDA, SIMD, MPI
       \item OpenGL, GLSL, GLUT, GLM
     \end{itemize}
