@@ -4,7 +4,7 @@
   <a href="#"><img alt="My School" src="https://img.shields.io/badge/GO-BEAVS-orange?style=for-the-badge"></a>
   <br/>
   <!-- <a href="#"><img alt="How Many Times You've Been Here" src="https://komarev.com/ghpvc/?username=VVill-ga&style=for-the-badge&color=008800&label=VIEWS"></a> -->
-  <a href="https://wakatime.com/@vvill"><img src="https://wakatime.com/badge/user/7a8411c3-2014-4161-9087-0ab507b62852.svg?style=for-the-badge" alt="Total time coded since Apr 23 2024" /></a>
+  <!-- <a href="https://wakatime.com/@vvill"><img src="https://wakatime.com/badge/user/7a8411c3-2014-4161-9087-0ab507b62852.svg?style=for-the-badge" alt="Total time coded since Apr 23 2024" /></a> -->
 </p>
 
 <table align="center"><tr><td align="center">
@@ -15,33 +15,33 @@
 
 ⌨️ **Currently Working On**:
 
-- 😳 Classes.
-- VVill.dev [➚](https://vvill.dev)
-- Resume Roast [➚](https://roast.vvill.dev)
-- Shortlinks [➚](https://a.vvill.dev)
-- *mystery secret project*
+- Classes!
+- ClubHub: A modern Club Management Platform
+- "Serverless" Email Newsletter Software
+- PoolHall: The online community for Billiard Players
 
 💭 **Currently Learning**:
 
-- Elm [➚](https://elm-lang.org) & Functional Programming [➚](https://www.google.com/books/edition/Programming_Language_Fundamentals/1q6P0AEACAAJ)
-- HTMX [➚](https://htmx.org) & Tauri [➚](https://tauri.app)
-- Cloud App Development [➚](https://web.engr.oregonstate.edu/~hessro/teaching/cs493-sp24)
+- HTMX [➚](https://htmx.org) 
+- Tauri [➚](https://tauri.app)
+- Machine Learning Algorithms
 
 📚 **Currently Reading**:
 
 - Hypermedia Systems [➚](https://hypermedia.systems)
-- The Ideal Team Player [➚](https://www.tablegroup.com/product/ideal-team-player)
+- The Mistborn Saga [➚](https://www.brandonsanderson.com/pages/the-mistborn-saga-the-original-trilogy)
 
 </td></tr></table>
 
 ---
 
 <p align="center">
-  Now enough about you, what about me?
-  <table align="center"><tbody><td align="center">
+  Feel free to poke around and reach out on Discord: **@vvill.ga**
+  <!-- <table align="center"><tbody><td align="center">
     <p align="center">Download My</p> 
     <a href="https://github.com/VVill-ga/VVill-ga/blob/main/resume.pdf">
       <img alt="Download My Resume" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readme&logoColor=white">
     </a>
   </td></tbody></table>
+  -->
 </p>
