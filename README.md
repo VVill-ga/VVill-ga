@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  Feel free to poke around and reach out on Discord: <b>vvill.ga</b>
+  Feel free to poke around and reach out on Discord: <b>@vvill.ga</b>
   <!-- <table align="center"><tbody><td align="center">
     <p align="center">Download My</p> 
     <a href="https://github.com/VVill-ga/VVill-ga/blob/main/resume.pdf">
