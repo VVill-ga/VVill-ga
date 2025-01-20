@@ -15,21 +15,16 @@
 
 ⌨️ **Currently Working On**:
 
-- Classes!
-- ClubHub: A modern Club Management Platform
-- "Serverless" Email Newsletter Software
-- PoolHall: The online community for Billiard Players
+- Graduating from OSU - **GO BEAVS**
+- Revolutionizing IGA with ConductorOne
+- Making club management at OSU easier
 
 💭 **Currently Learning**:
 
-- HTMX [➚](https://htmx.org) 
-- Tauri [➚](https://tauri.app)
-- Machine Learning Algorithms
+- Kotlin & Android Dev [➚](https://developer.android.com/courses) 
+- HTMX [➚](https://htmx.org) & Tauri [➚](https://tauri.app)
 
-📚 **Currently Reading**:
-
-- Hypermedia Systems [➚](https://hypermedia.systems)
-- The Mistborn Saga [➚](https://www.brandonsanderson.com/pages/the-mistborn-saga-the-original-trilogy)
+</td></tr><tr><td>
 
 </td></tr></table>
 
